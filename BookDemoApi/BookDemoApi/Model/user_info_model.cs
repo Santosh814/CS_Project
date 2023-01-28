@@ -20,6 +20,7 @@ namespace BookDemoApi.Model
 
         public string password { get; set; }
 
+        public string Religion { get; set; }
         public string dob { get; set; }
         public string contact_number { get; set; }
         public string gender { get; set; }
