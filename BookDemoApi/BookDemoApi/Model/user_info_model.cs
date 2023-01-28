@@ -12,6 +12,8 @@ namespace BookDemoApi.Model
     public class user_info_model
     {
         public string first_name { get; set; }
+
+        public string middle_name { get; set; }
         public string last_name { get; set; }
 
         public string email_id { get; set; }
